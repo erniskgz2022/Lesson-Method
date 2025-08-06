@@ -11,8 +11,8 @@ public class Task1 {
     {
         int [] array = new int[] {34,53,57,86,45,24,13,36,98,66};
         System.out.println("Massivteki Sandar: ");
-        for (int i = 0; i < array.length ; i++) {
-            System.out.print(array[i] + " ");
+        for (int j : array) {
+            System.out.print(j + " ");
 
         }
 

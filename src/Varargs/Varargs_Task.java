@@ -8,8 +8,8 @@ public class Varargs_Task {
 
     public  static void varargsMethod (int ... numbers){
         int sum = 0;
-        for (int i = 0; i < numbers.length; i++) {
-            sum += numbers[i];
+        for (int number : numbers) {
+            sum += number;
         }
         System.out.println("Summa: " +sum);
     }

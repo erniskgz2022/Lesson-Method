@@ -9,9 +9,8 @@ public class Vararg_HomeWork {
 
     public static Boolean contains (int a, int ...varargs){
 
-        for (int i = 0; i < varargs.length; i++) {
-            if (varargs[i]==a)
-            {
+        for (int vararg : varargs) {
+            if (vararg == a) {
                 return true;
             }
 
