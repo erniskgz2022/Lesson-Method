@@ -1,3 +1,5 @@
+package Varargs;
+
 public class Varargs_Task1 {
     public static void main(String[] args) {
        getTablis(2,4,5,7,8);

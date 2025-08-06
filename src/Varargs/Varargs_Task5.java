@@ -1,3 +1,5 @@
+package Varargs;
+
 public class Varargs_Task5 {
     public static void main(String[] args) {
         int result = getWordIsCount('a',"apple","Limon","Banan","Kyrgyz");

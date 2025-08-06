@@ -1,3 +1,5 @@
+package Varargs;
+
 public class Varargs_Task4 {
     public static void main(String[] args) {
         System.out.println(method(5,false,"Mektep","banan","limon"));

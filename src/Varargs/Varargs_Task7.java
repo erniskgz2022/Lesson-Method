@@ -1,3 +1,5 @@
+package Varargs;
+
 import java.util.Scanner;
 
 public class Varargs_Task7 {

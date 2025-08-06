@@ -1,3 +1,5 @@
+package Varargs;
+
 public class Varargs_Task6 {
     public static void main(String[] args) {
     String [] result = replaceTheWord("Alma","bir", "eki","uch", "tort","besh","alty");

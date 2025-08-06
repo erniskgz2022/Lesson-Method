@@ -1,4 +1,6 @@
-public class varargs_task2 {
+package Varargs;
+
+public class Varargs_task2 {
     public static void main(String[] args) {
         getnumber(2,33,65,88,99,56,45);
 

@@ -1,3 +1,5 @@
+package Varargs;
+
 public class Varargs_Task3 {
     public static void main(String[] args) {
         getNumbers(3,5,6,8,34,54,76,82,95);
